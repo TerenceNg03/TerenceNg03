@@ -1,4 +1,4 @@
-# Give Peace A Chance 
+# Give Peace A Chance 🇺🇦 🇺🇦 SLAVA UKRAINI 🇺🇦 🇺🇦 
  - We do not **serve ruthless tyrants**. 🚫 💣 🚫
  - We do not **have to kill each other**. 🚫 🔫 🚫
  - We want **PEACE RIGHT NOW**.🚫 🔪 🚫
