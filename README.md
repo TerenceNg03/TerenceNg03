@@ -1,20 +1,30 @@
-# Give Peace A Chance 🇺🇦 🇺🇦 SLAVA UKRAINI 🇺🇦 🇺🇦 
- - We do not **serve ruthless tyrants**. 🚫 💣 🚫
- - We do not **have to kill each other**. 🚫 🔫 🚫
- - We want **PEACE RIGHT NOW**.🚫 🔪 🚫
- - [All we are saying is give peace a chance ! 🇺🇦 🇺🇦 🇺🇦](https://www.youtube.com/watch?v=C3_0GqPvr4U&ab_channel=johnlennon)
-<!--
-**TerenceNg03/TerenceNg03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=50&height=70&pause=1000&width=500&lines=Hej!+I+am+Terence+Ng;Welcome+to+my+page!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## About Me 👋 :
+I am currently persuing my **Master**'s degree on **Computer Science** at **KTH**, Sweden!
+I am also interested in:
+- **Functional Programming**
+- **Programming Language Theory**
+- Everything about **Haskell** `((.)$(.))`
+- **Swedish** language, culture, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lanugages and Tools 🔨:
+
+[![My Skills](https://skillicons.dev/icons?i=haskell,rust,cpp,neovim,linux,bash,docker,mysql)](https://skillicons.dev)
+
+## Github Statics 📈 :
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=terenceng03&show_icons=true&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terenceng03&layout=donut&langs_count=4" />
+</a>
+
+## Github Repos 🏛️ :
+<a href="https://github.com/diatom-lang/diatom"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=diatom-lang&repo=diatom" height=150> </a> 
+<a href="https://github.com/TerenceNg03/mueval"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=TerenceNg03&repo=mueval" height=150> </a> 
+
+## My [Blogs](http://htmlpreview.github.io/?https://terenceng03.github.io/blogs/index.html) 🪩 :
+- [Monad Transformer](https://terenceng03.github.io/blogs/monad_transformer.html)
+- [Parser Combinator](https://terenceng03.github.io/blogs/parser_combinator.html)
