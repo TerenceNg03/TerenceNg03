@@ -6,7 +6,7 @@ I am also interested in:
 - **Functional Programming**
 - **Programming Language Theory**
 - Everything about **Haskell** `((.)$(.))`
-- **Swedish** language, culture, etc.
+- **Formal Method** and **Interactive theorem proving**
 
 ## 🔨 Lanugages and Tools :
 
